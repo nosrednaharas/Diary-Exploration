@@ -31,7 +31,7 @@ PL-2
 [Day by Day] (http://www.fdrlibrary.marist.edu/daybyday/)<br />
 
 * **Harry S. Truman**<br />
-1947 Diary http://www.trumanlibrary.org/diary/<br />
+[1947 Diary] (http://www.trumanlibrary.org/diary/)<br />
 Transcript: http://www.trumanlibrary.org/diary/transcript.htm<br />
 
 * **Dwight D. Eisenhower** <br />
