@@ -29,6 +29,8 @@ PL-2
 ### API Features
 * API of the Daily Diaries with administration, date, year, and link to where it is available, image of entry if available.
 * API to include complete information about the Entry (who, titles, what, where, significance, etc.)
+* Layer for table of contents -- a listing of headers
+* Layer for terms -- defined terms, including their scope
 * 
 
 ### Site Features
@@ -38,11 +40,12 @@ PL-2
 * Features image and transcript, if available
 * Navigation is inobtrusive and minimal - similar in look to the article page at [readwrite.com] (http://readwrite.com/2014/10/07/ios8-installations-mediocre-software-apps)
 * embeddable calendar widget
-  *  
+* Definitions: Defined terms or individuals are highlighted in the text; clicking them opens the term's definition in the sidebar.
 * Search
   * One box keyword search with option of advanced search, similar to upper right [JFK website] (http://www.jfklibrary.org/) results are auto fill, and results are categorized by type
   * Date search - retrieve by date (month, day, and/or year)
 * Responsive Design - The application design is responsive, adjusting to the device and screen size of the user.
+
 
 * Citations
   * Ability to draw attention to specific sections of interest within entries
