@@ -28,7 +28,7 @@ PL-2
 
 ## Existing Digitized Diaries
 * **Franklin D. Roosevelt**<br />
-Day by Day http://www.fdrlibrary.marist.edu/daybyday/<br />
+[Day by Day] (http://www.fdrlibrary.marist.edu/daybyday/)<br />
 
 * **Harry S. Truman**<br />
 1947 Diary http://www.trumanlibrary.org/diary/<br />
